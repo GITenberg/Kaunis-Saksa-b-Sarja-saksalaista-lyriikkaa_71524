@@ -1,0 +1,37 @@
+_repo: Kaunis-Saksa-b-Sarja-saksalaista-lyriikkaa_71524
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kailas, Uuno
+    birthdate: 1901
+    deathdate: 1933
+    gutenberg_agent_id: '4250'
+    url: http://www.gutenberg.org/2009/agents/4250
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Uuno_Kailas
+    - https://fi.wikipedia.org/wiki/Uuno_Kailas
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2023-08-30'
+identifiers:
+  gutenberg: '71524'
+language: fi
+pgterms:marc905: 20230827053119various
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aPorvoo :$bWSOY, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kaunis Saksa : $b Sarja saksalaista lyriikkaa'
+url: http://www.gutenberg.org/ebooks/71524
