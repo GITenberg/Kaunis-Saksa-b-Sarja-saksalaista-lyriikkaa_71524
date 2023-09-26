@@ -10,6 +10,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Uuno_Kailas
     - https://fi.wikipedia.org/wiki/Uuno_Kailas
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71524#Kaunis-Saksa-b-Sarja-saksalaista-lyriikkaa
 gutenberg_issued: '2023-08-30'
 identifiers:
   gutenberg: '71524'
